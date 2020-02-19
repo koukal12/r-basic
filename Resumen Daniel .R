@@ -49,5 +49,25 @@ Inf #Infinito
 -Inf 
 NA #Not available
 NaN #Not a Number
-
 #e
+
+#Notación Cientifica
+2^50 # [1] 1.1259e+15 *osea 1125900000000000, 11259 + 11 ceros
+2^ -15 #[1] 3.051758e-05 = 0.00003051758
+
+#Otras funciones
+sqrt(x) #raiz cuadrada de x 
+exp() #e a la x
+log() # ln(x)
+log(exp(10)) #logaritmo exponencial
+log(1000,10) #Logaritmo de 1000 en base de 10
+log10() #log10 (x)
+log(2,10)#log(operando del logaritmo, y la base)
+factorial(10) #10*9*8*7*6*5*4*3*2*1
+abs (-  pi)
+#Importante
+choose(n,k) #coeficientes binomiales 
+choose(5,3)#tengo 5 pasteles y quisiera comer 3, de cuantas formas se puede
+choose (5,2)
+cos(60*pi/180) #Multiplicar por pi y dividir entre 180: radianes a grados
+
